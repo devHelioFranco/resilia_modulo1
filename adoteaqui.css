@@ -70,6 +70,7 @@ body {
 .rodape {
 	background-color: rgb(250, 208,0);
 	padding-top: 20px;
+	padding-bottom: 20px;
 }
 .rodape .subtitulo {
 	color: #FFF;
@@ -146,6 +147,9 @@ li {
 }
 .rodape .container .rodape-contato .rodape-contato-fieldset {
 	display: flex;
+}
+.direito-rodape {
+	text-align: center;
 }
 img {
 	border-radius: 20px;
